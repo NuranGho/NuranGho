@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Analyst
 ----------------
 
-I am a passionate individual with a Bachelor's degree in Computer Science and a Master's in Business Analytics. Currently on the lookout for an entry or associate-level position as an analyst, I bring a unique blend of technical expertise and analytical skills to the table. Eager to dive into new challenges and continuously expand my knowledge base, I thrive in dynamic environments where learning is a daily adventure. My educational background has equipped me with a solid foundation in data analysis, programming, and problem-solving, while my business analytics specialization enables me to derive meaningful insights and drive informed decision-making. A little more about me... 🌍 Avid reader, globe-trotter, and nature enthusiast, I find inspiration in exploring new cultures and soaking up the beauty of the great outdoors. Whether it's getting lost in a good book, traversing new landscapes, or simply relishing the fresh air, I'm always up for an adventure. 📚✈️ Bilingual: Fluent in both Egyptian Arabic and English 💬
+I am a passionate individual with a Bachelor's degree in Computer Science and a Master's in Business Analytics. Currently on the lookout for an entry or associate-level position as an analyst, I bring a unique blend of technical expertise and analytical skills to the table. Eager to dive into new challenges and continuously expand my knowledge base, I thrive in dynamic environments where learning is a daily adventure. My educational background has equipped me with a solid foundation in data analysis, programming, and problem-solving, while my business analytics specialization enables me to derive meaningful insights and drive informed decision-making. 
+
+A little more about me... 
+
+🌍 Avid reader, globe-trotter, and nature enthusiast, I find inspiration in exploring new cultures and soaking up the beauty of the great outdoors. Whether it's getting lost in a good book, traversing new landscapes, or simply relishing the fresh air, I'm always up for an adventure. 📚✈️ Bilingual: Fluent in both Egyptian Arabic and English 💬
 
 * ✉️  You can contact me at [nuran.gho1999@gmail.com](mailto:nuran.gho1999@gmail.com)
 
