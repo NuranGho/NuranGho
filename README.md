@@ -8,7 +8,7 @@ I am a passionate individual with a Bachelor's degree in Computer Science and a 
 
 A little more about me... 
 
-🌍 Avid reader, globe-trotter, and nature enthusiast, I find inspiration in exploring new cultures and soaking up the beauty of the great outdoors. Whether it's getting lost in a good book, traversing new landscapes, or simply relishing the fresh air, I'm always up for an adventure. 📚✈️ Bilingual: Fluent in both Egyptian Arabic and English 💬
+🌍 Avid reader, traveler, and nature enthusiast, I find inspiration in exploring new cultures and soaking up the beauty of the great outdoors. Whether it's getting lost in a good book, traversing new landscapes, or simply relishing the fresh air, I'm always up for an adventure. 📚✈️ Bilingual: Fluent in both Egyptian Arabic and English 💬
 
 * ✉️  You can contact me at [nuran.gho1999@gmail.com](mailto:nuran.gho1999@gmail.com)
 
@@ -27,3 +27,7 @@ A little more about me...
 ### Badges
 
 <a href="https://github.com/NuranGho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuranGho&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/NuranGho/The-Big-Apples-Big-Brain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NuranGho&repo=The-Big-Apples-Big-Brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NuranGho/Moneyball-NBA_20-22" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NuranGho&repo=Moneyball-NBA_20-22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
